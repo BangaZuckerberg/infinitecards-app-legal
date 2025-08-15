@@ -1,75 +1,55 @@
-**Privacy Policy**
+# Privacy Policy for Infinite Cards
 
-This privacy policy applies to the Infinite Cards app (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
+**Effective Date: 2025-08-15**
 
-**Information Collection and Use**
+This privacy policy applies to the Infinite Cards mobile application (hereby referred to as "the Application"), created by **NomNomJP** (hereby referred to as "we," "us," or "our") as an ad-supported service.
 
-The Application collects information when you download and use it. This information may include information such as
+This policy is used to inform users about our policies regarding the handling of user data.
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+## 1. Data Handled Locally on Your Device
 
-The Application does not gather precise information about the location of your mobile device.
+The primary function of the Application is to scan and store business card information. This data is stored exclusively on your local device and is **never collected, transmitted, or stored on our servers.** We do not have access to this information. This locally handled data includes:
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+* **Personal Information from Scanned Cards:** Names, phone numbers, email addresses, addresses, and company information.
+* **Photos:** The images of the business cards you choose to save.
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+**Data Deletion:** You are in full control of this data. You can delete it at any time by deleting the individual business cards within the Application.
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+## 2. Information Collected by Third-Party Services
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+To support and improve the Application, we use third-party services that may collect information automatically. This data is generally anonymous and is not linked to the personal information from your business cards. This may include:
 
-**Third Party Access**
+* **Device & Usage Information:** Your device's IP address, operating system, app usage statistics (pages visited, time spent), and crash logs.
+* **Advertising ID:** An anonymous identifier used to serve and measure advertisements.
+* **Approximate Location:** Your general geographical location (e.g., city or country) may be inferred by these services to provide relevant ads and for analytics.
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+Our app utilizes the following third-party services. We recommend you review their privacy policies:
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+* [Google Play Services](https://www.google.com/policies/privacy/)
+* [AdMob](https://support.google.com/admob/answer/6128543)
+* [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+## 3. How We Use Information
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+* **Locally Handled Data:** Used for the core functionality of the app, allowing you to store and manage your contacts.
+* **Automatically Collected Data:** Used to provide advertising, analyze app performance, fix bugs, and improve the user experience.
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+## 4. Children's Privacy
 
-**Opt-Out Rights**
+This Application does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+## 5. Security
 
-**Data Retention Policy**
+We are concerned about safeguarding your information. The Application uses reasonable measures to protect the information handled on your device. All data transmitted by our third-party services (e.g., ads and analytics) is sent over secure (HTTPS) connections.
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at banga.zuckerberg99@gmail.com and they will respond in a reasonable time.
+## 6. Changes to This Privacy Policy
 
-**Children**
+This Privacy Policy may be updated from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to consult this Privacy Policy regularly for any changes.
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+## 7. Your Consent
 
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (banga.zuckerberg99@gmail.com) so that they will be able to take the necessary actions.
+By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.
 
-**Security**
+## 8. Contact Us
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
-
-**Changes**
-
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
-
-This privacy policy is effective as of 2025-06-27
-
-**Your Consent**
-
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
-
-**Contact Us**
-
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at infinitecards.service@gmail.com.
-
-* * *
-
+If you have any questions regarding privacy while using the Application, please contact us via email at **infinitecards.service@gmail.com**.
