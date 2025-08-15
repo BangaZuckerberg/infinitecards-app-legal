@@ -18,6 +18,12 @@ Please note that the Application uses third-party services that have their own T
 
 Please be aware that we do not assume responsibility for certain aspects. Some functions of the Application may require an active internet connection. We cannot be held responsible if the Application does not function at full capacity due to a lack of an internet connection or if you have exhausted your data allowance. You accept responsibility for any charges from your mobile provider for data usage.
 
+**In-App Purchases**
+The Application may include paid content, subscriptions, or features ("In-App Purchases"). All In-App Purchases are processed through the Google Play Store, and are subject to their terms and conditions. We do not process or have access to your payment information. All billing and refund inquiries must be directed to the Google Play Store.
+
+**Changes to Services**
+We reserve the right to withdraw or amend the services and features we provide in our Application without notice. We will not be liable if for any reason all or any part of the anApplication is unavailable at any time or for any period. From time to time, we may restrict access to some parts of the Application, or the entire Application.
+
 In terms of our responsibility for your use of the Application, it is important to note that while we strive to ensure it is updated and accurate, we rely on third-party services to provide certain functionalities. We accept no liability for any loss, direct or indirect, that you experience as a result of relying entirely on the functionality of the Application.
 
 We may wish to update the Application. The requirements for the operating system may change, and you will need to download the updates to continue using the Application. We do not guarantee that we will always update the Application or that it will be compatible with your specific device's operating system version. We may also wish to cease providing the Application and may terminate its use at any time without notice.
@@ -29,3 +35,4 @@ We may update our Terms of Use from time to time. Therefore, you are advised to 
 **Contact Us**
 
 If you have any questions or suggestions about our Terms of Use, please contact us at **infinitecards.service@gmail.com**.
+
