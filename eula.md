@@ -10,6 +10,12 @@ We are dedicated to ensuring the Application is as useful and efficient as possi
 
 The Application allows you to scan and store business card data. This information is processed and stored **exclusively on your own device**. It is your responsibility to maintain the security of your phone and access to the Application. We do not have access to the content you store. We strongly advise against jailbreaking or rooting your phone, as it could compromise your device's security and may cause the Application to not function correctly.
 
+> **## Data Storage and Backup Responsibility**
+>
+> All business card data you save in the Application is stored **exclusively on the local storage of your device**. We do not provide any cloud backup, storage, or synchronization services.
+>
+> **You are solely responsible for the backup and security of your data.** If you change or lose your device, or if the Application's data is cleared, we have no way to recover your information. Your purchase of any "Pro" or premium features does not include cloud storage or backup services. We highly recommend you regularly back up your data through your device's operating system backup features or by using the app's export function.
+
 Please note that the Application uses third-party services that have their own Terms of Use. Below are the links to the terms of the primary third-party service providers used by the Application:
 
 * [Google Play Services Terms of Service](https://policies.google.com/terms)
@@ -35,4 +41,5 @@ We may update our Terms of Use from time to time. Therefore, you are advised to 
 **Contact Us**
 
 If you have any questions or suggestions about our Terms of Use, please contact us at **infinitecards.service@gmail.com**.
+
 
