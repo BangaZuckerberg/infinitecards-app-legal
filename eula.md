@@ -32,6 +32,7 @@ These terms and conditions are effective as of 2025-06-27
 
 **Contact Us**
 
-If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at banga.zuckerberg99@gmail.com.
+If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at infinitecards.service@gmail.com.
 
 * * *
+
